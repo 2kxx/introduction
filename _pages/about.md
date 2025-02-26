@@ -11,7 +11,7 @@ Zhenchen Tang, male, is a master student in CASIA now.
 
 More details
 ======
-The URL for Baidu Baike entries is：
+
 
 Educational Background
 ======
@@ -19,7 +19,7 @@ Educational Background
 
 Hands-on experience
 ======
-March 2024       School-level Programming Project             Design and Implementation of Intelligent Face Recognition Access Control System           Project Leader
+
 ------
 
 
