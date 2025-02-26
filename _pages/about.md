@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Zhenchen Tang, male, is an master student in CASIA now.
+Zhenchen Tang, male, is a master student in CASIA now.
 
 More details
 ======
